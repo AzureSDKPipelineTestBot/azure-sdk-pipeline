@@ -1,0 +1,25 @@
+{
+  "serviceType": "resource-manager",
+  "resources": [],
+  "resourcelist": "",
+  "onboardType": "ad-hoc",
+  "swaggerRepo": {
+    "type": "github",
+    "path": "https://github.com/Azure/azure-rest-api-specs",
+    "branch": "main"
+  },
+  "sdkRepo": {
+    "type": "github",
+    "path": "https://github.com/Azure/azure-sdk-for-js",
+    "branch": "dw/pipeline-test"
+  },
+  "codegenRepo": {
+    "type": "github",
+    "path": "https://github.com/AzureSDKPipelineTestBot/azure-sdk-pipeline",
+    "branch": "dev"
+  },
+  "jsonFileList": [],
+  "RPName": "msi",
+  "readmeFile": "/specification/msi/resource-manager/readme.md",
+  "target": "go"
+}
