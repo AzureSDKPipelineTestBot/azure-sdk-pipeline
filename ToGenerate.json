@@ -1,0 +1,25 @@
+{
+  "serviceType": "resource-manager",
+  "resources": [],
+  "resourcelist": "",
+  "onboardType": "ad-hoc",
+  "swaggerRepo": {
+    "type": "github",
+    "path": "https://github.com/AzureSDKPipelineTestBot/azure-rest-api-specs",
+    "branch": "main"
+  },
+  "sdkRepo": {
+    "type": "github",
+    "path": "https://github.com/AzureSDKPipelineTestBot/azure-sdk-for-js",
+    "branch": "main"
+  },
+  "codegenRepo": {
+    "type": "github",
+    "path": "https://github.com/AzureSDKPipelineTestBot/azure-sdk-pipeline",
+    "branch": "main"
+  },
+  "jsonFileList": [],
+  "RPName": "servicefabric",
+  "readmeFile": "/specification/servicefabric/resource-manager/readme.md",
+  "target": "js"
+}
